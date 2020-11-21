@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-dodaje 1 zmianę
-dodaje drugą zmanedodaje drugą zmane
-=======
-dodaje 1 zmianę
->>>>>>> parent of 6b9fdbe... Update test2.txt
+pierwsza zmiana
